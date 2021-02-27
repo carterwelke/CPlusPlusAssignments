@@ -1,0 +1,32 @@
+Carter Welke CIST 04A
+
+Enter a file name: test
+"test.txt" already exists!
+Would you like to overwrite file named "test.txt"? (Y/N): Y
+Attempting to delete "test.txt".
+"test.txt" succesfully created!
+
+Enter lines of text to add to the file. Hit <return> to end.
+Enter text for line 1: testing
+Enter text for line 2: testing
+Enter text for line 3: 123
+Enter text for line 4:
+The file was written.
+
+The file "test.txt" is 23 bytes long.
+
+Enter final line of text to add to file: extra test line
+Writing "extra test line" to the file.
+
+The file "test.txt" is now 40 bytes long.
+
+The file "test.txt" contains:
+testing
+testing
+123
+extra test line
+
+
+C:\Users\Carter\source\repos\fileIO\Debug\fileIO.exe (process 1336) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

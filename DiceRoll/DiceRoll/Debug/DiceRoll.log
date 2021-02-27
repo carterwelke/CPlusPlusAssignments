@@ -1,0 +1,3 @@
+﻿  DiceRoll.cpp
+c:\users\carter\source\repos\diceroll\diceroll\diceroll.cpp(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DiceRoll.vcxproj -> C:\Users\Carter\source\repos\DiceRoll\Debug\DiceRoll.exe
