@@ -1,0 +1,49 @@
+Carter Welke    CIST004A
+
+Current Win count is:
+Player: 0 Computer: 0
+
+Enter a number between 0 and 51: 99
+
+Enter a number between 0 and 51: 12
+Your selected card is: Queen of Clubs
+The computer's card is: Four of Spades
+You win this round!
+
+Current Win count is:
+Player: 1 Computer: 0
+
+Enter a number between 0 and 51: 0
+Your selected card is: Ace of Diamonds
+The computer's card is: Ace of Diamonds
+It's a Tie! No points!
+
+Current Win count is:
+Player: 1 Computer: 0
+
+Enter a number between 0 and 51: 12
+Your selected card is: Seven of Clubs
+The computer's card is: Ten of Diamonds
+You lose this round!
+
+Current Win count is:
+Player: 1 Computer: 1
+
+Enter a number between 0 and 51: 8
+Your selected card is: King of Clubs
+The computer's card is: Queen of Spades
+You win this round!
+
+Current Win count is:
+Player: 2 Computer: 1
+
+Enter a number between 0 and 51: 4
+Your selected card is: Seven of Hearts
+The computer's card is: Five of Clubs
+You win this round!
+
+You win the game 3 to 1
+
+C:\Users\Carter\source\repos\CardGame\Debug\CardGame.exe (process 8868) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
