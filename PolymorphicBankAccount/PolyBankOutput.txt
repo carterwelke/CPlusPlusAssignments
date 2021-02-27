@@ -1,0 +1,36 @@
+Carter Welke CIST 04A
+
+Account 1 balance: $25.00
+Enter a non-negative amount to withdraw from Account 1: 30
+ERROR:Debit of $30.00 exceeds balance $25.00
+Enter a non-negative amount to deposit into Account 1: 10
+Adding $1.05 interest to Account 1 (savings account)
+Updated Account 1 balance: $36.05
+
+Account 2 balance: $80.00
+Enter a non-negative amount to withdraw from Account 2: 0
+Enter a non-negative amount to deposit into Account 2: 20
+$1.00 transaction fee charged.
+Updated Account 2 balance: $99.00
+
+Account 3 balance: $200.00
+Enter a non-negative amount to withdraw from Account 3: 25
+Enter a non-negative amount to deposit into Account 3: 0
+Adding $2.62 interest to Account 3 (savings account)
+Updated Account 3 balance: $177.62
+
+Account 4 balance: $400.00
+Enter a non-negative amount to withdraw from Account 4: 450
+ERROR:Debit of $450.50 exceeds balance $400.00
+Using overdraft protection that's probably legal
+$0.50 fee charged.
+$10.00 Overdraft transaction fee charged
+Updated Overdraft Savings Account balance: $117.12
+Enter a non-negative amount to deposit into Account 4: 25
+$0.50 transaction fee charged.
+Updated Account 4 balance: $24.50
+
+
+C:\Users\Carter\source\repos\PolymorphicBankAccount\Debug\PolymorphicBankAccount.exe (process 12488) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

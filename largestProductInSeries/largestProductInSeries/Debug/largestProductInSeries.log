@@ -1,0 +1,4 @@
+﻿  largestProductInSeries.cpp
+c:\users\carter\source\repos\largestproductinseries\largestproductinseries\largestproductinseries.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\carter\source\repos\largestproductinseries\largestproductinseries\largestproductinseries.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  largestProductInSeries.vcxproj -> C:\Users\Carter\source\repos\largestProductInSeries\Debug\largestProductInSeries.exe
