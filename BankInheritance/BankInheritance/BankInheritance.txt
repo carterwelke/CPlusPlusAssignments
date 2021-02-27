@@ -1,0 +1,35 @@
+Carter Welke CIST 004A
+
+(Regular) account1 balance is: $50.00
+(savings) account2 balance is: $25.00
+(checking) account3 balance is: $80.00
+
+attempting to debit $25.00 from account1
+
+attempting to debit $30.00 from account2
+ERROR:debit exceeds balance
+
+attempting to debit $40.00 from account3
+$1.00 fee charged.
+
+account1 (regular) balance is: $25.00
+account2 (savings) balance is: $25.00
+account3 (checking) balance is: $39.00
+
+crediting $40.00 to account1
+
+crediting $65.00 to account2
+
+crediting $20.00 to account3
+$1.00 fee charged.
+
+account1 (regular) balance is: $65.00
+account2 (savings) balance is: $90.00
+account3 (checking) balance is: $58.00
+
+Adding 2.70 interest to account2.
+New account2 balance: $92.70
+
+C:\Users\Carter\source\repos\BankInheritance\Debug\BankInheritance.exe (process 5220) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
